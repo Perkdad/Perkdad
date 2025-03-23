@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Perkdad. I am a Healthcare Professional who is currently learning
+- 👋 Hi, I’m Aaron. I am a Healthcare Professional who is currently learning
 -    Computer Science with the goal of developing software applications to
 -    improve workflow and patient care.
 -    
